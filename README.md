@@ -5,9 +5,10 @@ MI LEMA; Sino me a costado aprenderlo, pues tampoco enseñarlo...
 
 Archivos:
 --------------------
-+ FIRMWARE PRECOMPILADO.bin
-+ CARPETA DATA; Configuraciones para Marlin
-+ CARPETA IMAGES; Tutorial de Apoyo...
++ firmware.bin
++ Bootscreen.h
++ Configuration.h 
++ Configuration_adv.h 
 
 Modificaciones:
 --------------------
